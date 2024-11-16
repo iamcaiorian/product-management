@@ -1,0 +1,1290 @@
+[
+    {
+        "codigo": "100359",
+        "descricao": "Toalhas Umedecidas A Base De Plantas Para Pele Normal Mustel Com 60 Unidades",
+        "id": 3819,
+        "precoPromocional": 21.98,
+        "promocao": true,
+        "qtdEstoque": 17,
+        "status": true,
+        "titulo": "Toalhas Umedecidas A Base De Plantas Para Pele Normal Mustel Com 60 Unidades",
+        "valor": 42.98,
+        "gruposCategoria": [
+            {
+                "descricao": "Beleza",
+                "id": 154
+            }
+        ],
+        "referencia": "100359",
+        "destaque": false,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "100610",
+        "descricao": "Cloridrato Metformina Xr 500mg 30 Comprimidos Liberacao Prolongada",
+        "id": 3795,
+        "precoPromocional": 8.85,
+        "promocao": false,
+        "qtdEstoque": 3,
+        "status": true,
+        "titulo": "Cloridrato Metformina Xr 500mg 30 Comprimidos Liberacao Prolongada",
+        "valor": 12,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Beleza",
+                "id": 154
+            },
+            {
+                "descricao": "Hidratantes",
+                "id": 170,
+                "idGrupoServicoPai": 154
+            },
+            {
+                "descricao": "Dores e Febre",
+                "id": 172,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "100610",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "101876",
+        "descricao": "Lenços Umedecidos Pampers Cheirinho De Bebê 12 Pacotes Com 48 Lenços Cada",
+        "id": 3821,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 10,
+        "status": true,
+        "titulo": "Lenços Umedecidos Pampers Cheirinho De Bebê 12 Pacotes Com 48 Lenços Cada",
+        "valor": 90.85,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Lenço Umidecido",
+                "id": 162,
+                "idGrupoServicoPai": 152
+            }
+        ],
+        "referencia": "101876",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "102501",
+        "descricao": "Protetor Solar La Roche-posay Anthelios Airlicium + Sem Cor Fps80 40g",
+        "id": 3838,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 20,
+        "status": true,
+        "titulo": "Protetor Solar La Roche-posay Anthelios Airlicium + Sem Cor Fps80 40g",
+        "valor": 75.8,
+        "gruposCategoria": [
+            {
+                "descricao": "Beleza",
+                "id": 154
+            },
+            {
+                "descricao": "Shampoo",
+                "id": 168,
+                "idGrupoServicoPai": 154
+            }
+        ],
+        "referencia": "102501",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "102585",
+        "descricao": "Vult Care Nutritivo - Creme Hidratante Facial 100g",
+        "id": 3861,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 95,
+        "status": true,
+        "titulo": "Vult Care Nutritivo - Creme Hidratante Facial 100g",
+        "valor": 26.65,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Beleza",
+                "id": 154
+            }
+        ],
+        "referencia": "102585",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "102816",
+        "descricao": "Kit Pomada Para Prevenção De Assaduras Dermodex Prevent 120g",
+        "id": 3824,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 29,
+        "status": true,
+        "titulo": "Kit Pomada Para Prevenção De Assaduras Dermodex Prevent 120g",
+        "valor": 50.85,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Pomada para Assaduras",
+                "id": 164,
+                "idGrupoServicoPai": 152
+            }
+        ],
+        "referencia": "102816",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "103664",
+        "descricao": "Sabonete Em Barra Protex Pro Defesa 80g",
+        "id": 3809,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 25,
+        "status": true,
+        "titulo": "Sabonete Em Barra Protex Pro Defesa 80g",
+        "valor": 3.5,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Sabonetes",
+                "id": 158,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "103664",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "104499",
+        "descricao": "Fralda Pampers Confort Sec Jumbo Xxg 112 Unidades",
+        "id": 3816,
+        "precoPromocional": 0,
+        "promocao": false,
+        "qtdEstoque": 6,
+        "status": true,
+        "titulo": "Fralda Pampers Confort Sec Jumbo Xxg 112 Unidades",
+        "valor": 70,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Fraldas",
+                "id": 161,
+                "idGrupoServicoPai": 152
+            }
+        ],
+        "referencia": "104499",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "105441",
+        "descricao": "Desodorante Aerossol Rexona Men Active Dry 72h 250ml Leve Mais Pague Menos",
+        "id": 3767,
+        "precoPromocional": 19.9,
+        "promocao": false,
+        "qtdEstoque": 4,
+        "status": true,
+        "titulo": "Desodorante Aerossol Rexona Men Active Dry 72h 250ml Leve Mais Pague Menos",
+        "valor": 300,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Desodorante",
+                "id": 157,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "105441",
+        "destaque": false,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "105674",
+        "descricao": "Kit Desodorante Aerosol Nivea Men Deep Original 300ml",
+        "id": 3810,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 28,
+        "status": true,
+        "titulo": "Kit Desodorante Aerosol Nivea Men Deep Original 300ml",
+        "valor": 27.85,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Desodorante",
+                "id": 157,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "105674",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "105868",
+        "descricao": "Kit Pantene Brilho Extremo Shampoo 400ml + Condicionador 175ml",
+        "id": 3779,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 0,
+        "status": true,
+        "titulo": "Kit Pantene Brilho Extremo Shampoo 400ml + Condicionador 175ml",
+        "valor": 23.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Beleza",
+                "id": 154
+            },
+            {
+                "descricao": "Shampoo",
+                "id": 168,
+                "idGrupoServicoPai": 154
+            },
+            {
+                "descricao": "Condicionador",
+                "id": 169,
+                "idGrupoServicoPai": 154
+            }
+        ],
+        "referencia": "105868",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "106797",
+        "descricao": "Creme Dental Sensodyne Ultra Proteção 50g",
+        "id": 3803,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 26,
+        "status": true,
+        "titulo": "Creme Dental Sensodyne Ultra Proteção 50g",
+        "valor": 8.65,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Saúde Bucal",
+                "id": 159,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "106797",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "106891",
+        "descricao": "Creme Dental Colgate Luminous White Manchas De Cafe 70g",
+        "id": 3765,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 13,
+        "status": true,
+        "titulo": "Creme Dental Colgate Luminous White Manchas De Cafe 70g",
+        "valor": 14.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Saúde Bucal",
+                "id": 159,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "106891",
+        "destaque": false,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "106916",
+        "descricao": "Kit Ritual Dos Desejos Panvel Com 2 Sabonetes Em Barra 90g Cada",
+        "id": 3804,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 23,
+        "status": true,
+        "titulo": "Kit Ritual Dos Desejos Panvel Com 2 Sabonetes Em Barra 90g Cada",
+        "valor": 17.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Sabonetes",
+                "id": 158,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "106916",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "106948",
+        "descricao": "Fralda Turma Da Mônica Baby Xg Com 42 Unidades",
+        "id": 3817,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": null,
+        "status": true,
+        "titulo": "Fralda Turma Da Mônica Baby Xg Com 42 Unidades",
+        "valor": 58.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Fraldas",
+                "id": 161,
+                "idGrupoServicoPai": 152
+            }
+        ],
+        "referencia": "106948",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "109218",
+        "descricao": "Dprev Todo Dia 1.000ui Com 30 Gomas Mastigáveis Sabor Abacaxi - Vitamina D3",
+        "id": 3831,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 14,
+        "status": true,
+        "titulo": "Dprev Todo Dia 1.000ui Com 30 Gomas Mastigáveis Sabor Abacaxi - Vitamina D3",
+        "valor": 26.65,
+        "gruposCategoria": [
+            {
+                "descricao": "Saúde e Bem Estar",
+                "id": 153
+            },
+            {
+                "descricao": "Vitamina",
+                "id": 165,
+                "idGrupoServicoPai": 153
+            }
+        ],
+        "referencia": "109218",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "109443",
+        "descricao": "Absorvente Always Cotton Protection Cobertura Natural Com Abas 16 Unidades",
+        "id": 3815,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 20,
+        "status": true,
+        "titulo": "Absorvente Always Cotton Protection Cobertura Natural Com Abas 16 Unidades",
+        "valor": 21.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Absorvente",
+                "id": 160,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "109443",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "109587",
+        "descricao": "Vitamina D Fdc 2000ui 100 Cápsulas",
+        "id": 3830,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": null,
+        "status": true,
+        "titulo": "Vitamina D Fdc 2000ui 100 Cápsulas",
+        "valor": 45.59,
+        "gruposCategoria": [
+            {
+                "descricao": "Saúde e Bem Estar",
+                "id": 153
+            },
+            {
+                "descricao": "Vitamina",
+                "id": 165,
+                "idGrupoServicoPai": 153
+            }
+        ],
+        "referencia": "109587",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "109657",
+        "descricao": "Absorvente Panvel Essêncial Cobertura Suave Com Abas Leve 32 Pague 28",
+        "id": 3811,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 15,
+        "status": true,
+        "titulo": "Absorvente Panvel Essêncial Cobertura Suave Com Abas Leve 32 Pague 28",
+        "valor": 8.89,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Absorvente",
+                "id": 160,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "109657",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "111122",
+        "descricao": "Sabonete Antibacteriano Em Barra Protex Duo Protect 85g Leve 6 Pague 5",
+        "id": 3805,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 25,
+        "status": true,
+        "titulo": "Sabonete Antibacteriano Em Barra Protex Duo Protect 85g Leve 6 Pague 5",
+        "valor": 12.75,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Sabonetes",
+                "id": 158,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "111122",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "111185",
+        "descricao": "Protetor Solar Facial Neutrogena Sun Fresh Derm Care Sem Cor Fps 70 40g",
+        "id": 3840,
+        "precoPromocional": 37.91,
+        "promocao": true,
+        "qtdEstoque": 421,
+        "status": true,
+        "titulo": "Protetor Solar Facial Neutrogena Sun Fresh Derm Care Sem Cor Fps 70 40g",
+        "valor": 39,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Beleza",
+                "id": 154
+            },
+            {
+                "descricao": "Fraldas",
+                "id": 161,
+                "idGrupoServicoPai": 152
+            },
+            {
+                "descricao": "Lenço Umidecido",
+                "id": 162,
+                "idGrupoServicoPai": 152
+            },
+            {
+                "descricao": "Sabonete Infantil",
+                "id": 163,
+                "idGrupoServicoPai": 152
+            },
+            {
+                "descricao": "Protetor Solar",
+                "id": 174,
+                "idGrupoServicoPai": 154
+            },
+            {
+                "descricao": "Medicamentos",
+                "id": 175
+            }
+        ],
+        "referencia": "111185",
+        "destaque": false,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "111486",
+        "descricao": "Fralda Huggies Supreme Care Hiper Roupinha Xxg Com 48 Unidades",
+        "id": 3776,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 15,
+        "status": true,
+        "titulo": "Fralda Huggies Supreme Care Hiper Roupinha Xxg Com 48 Unidades",
+        "valor": 69.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Fraldas",
+                "id": 161,
+                "idGrupoServicoPai": 152
+            }
+        ],
+        "referencia": "111486",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "111704",
+        "descricao": "Pregabalina 150mg 30 Capsulas Duras Eurofarma Generico C1",
+        "id": 3785,
+        "precoPromocional": 82.43,
+        "promocao": false,
+        "qtdEstoque": 24,
+        "status": true,
+        "titulo": "Pregabalina 150mg 30 Capsulas Duras Eurofarma Generico C1",
+        "valor": 109.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Genéricos",
+                "id": 150,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "111704",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "111737",
+        "descricao": "Oxalato Escitalopram 20mg 30 Comprimidos Revestidos Novartis Generico",
+        "id": 3782,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 23,
+        "status": true,
+        "titulo": "Oxalato Escitalopram 20mg 30 Comprimidos Revestidos Novartis Generico",
+        "valor": 27.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Genéricos",
+                "id": 150,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "111737",
+        "destaque": false,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "111996",
+        "descricao": "Creme Dental Colgate Total 12 Anti-tártaro 140g",
+        "id": 3766,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 23,
+        "status": true,
+        "titulo": "Creme Dental Colgate Total 12 Anti-tártaro 140g",
+        "valor": 17.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Saúde Bucal",
+                "id": 159,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "111996",
+        "destaque": false,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "113592",
+        "descricao": "Lenços Umedecidos Pampers Aloe Vera Leve 4 Pague 3 Com 48 Unidades",
+        "id": 3820,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": null,
+        "status": true,
+        "titulo": "Lenços Umedecidos Pampers Aloe Vera Leve 4 Pague 3 Com 48 Unidades",
+        "valor": 38.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Lenço Umidecido",
+                "id": 162,
+                "idGrupoServicoPai": 152
+            }
+        ],
+        "referencia": "113592",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "113909",
+        "descricao": "Hemitartarato Zolpidem 10mg 30 Comprimidos Revestidos Sandoz Generico",
+        "id": 3781,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 23,
+        "status": true,
+        "titulo": "Hemitartarato Zolpidem 10mg 30 Comprimidos Revestidos Sandoz Generico",
+        "valor": 12.69,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Genéricos",
+                "id": 150,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "113909",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "114338",
+        "descricao": "Protetor Solar Facial Neostrata Minesol Oil Control Fps 70 40g",
+        "id": 3839,
+        "precoPromocional": 52.64,
+        "promocao": true,
+        "qtdEstoque": 22,
+        "status": true,
+        "titulo": "Protetor Solar Facial Neostrata Minesol Oil Control Fps 70 40g",
+        "valor": 65.8,
+        "gruposCategoria": [
+            {
+                "descricao": "Beleza",
+                "id": 154
+            },
+            {
+                "descricao": "Protetor Solar",
+                "id": 174,
+                "idGrupoServicoPai": 154
+            }
+        ],
+        "referencia": "114338",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "114351",
+        "descricao": "Promopack Protetor Solar Neostrata Minesol Oil Control Fps 70 40g 50% de desconto",
+        "id": 3842,
+        "precoPromocional": 88.68,
+        "promocao": true,
+        "qtdEstoque": 67,
+        "status": true,
+        "titulo": "Promopack Protetor Solar Neostrata Minesol Oil Control Fps 70 40g 50% de desconto",
+        "valor": 110.85,
+        "gruposCategoria": [
+            {
+                "descricao": "Beleza",
+                "id": 154
+            },
+            {
+                "descricao": "Protetor Solar",
+                "id": 174,
+                "idGrupoServicoPai": 154
+            }
+        ],
+        "referencia": "114351",
+        "destaque": true,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "114438",
+        "descricao": "Desogestrel 75mcg 84 Comprimidos Revestidos Neoquimica Generico",
+        "id": 3784,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 25,
+        "status": true,
+        "titulo": "Desogestrel 75mcg 84 Comprimidos Revestidos Neoquimica Generico",
+        "valor": 30.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Genéricos",
+                "id": 150,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "114438",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "1144388",
+        "descricao": "Desogestrel 75mcg 84 Comprimidos Revestidos Neoquimica Generico",
+        "id": 3791,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 24,
+        "status": true,
+        "titulo": "Desogestrel 75mcg 84 Comprimidos Revestidos Neoquimica Generico",
+        "valor": 31.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Genéricos",
+                "id": 150,
+                "idGrupoServicoPai": 149
+            },
+            {
+                "descricao": "Anticoncepcionais",
+                "id": 155,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "1144388",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "114874",
+        "descricao": "Kit Protetor Solar Nivea Protect Hidrata Fps50 200ml Grátis Nivea Protect Hidrata",
+        "id": 3841,
+        "precoPromocional": 32.39,
+        "promocao": true,
+        "qtdEstoque": null,
+        "status": true,
+        "titulo": "Kit Protetor Solar Nivea Protect Hidrata Fps50 200ml Grátis Nivea Protect Hidrata",
+        "valor": 35.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Beleza",
+                "id": 154
+            },
+            {
+                "descricao": "Protetor Solar",
+                "id": 174,
+                "idGrupoServicoPai": 154
+            }
+        ],
+        "referencia": "114874",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "115454",
+        "descricao": "Kit Sabonete Em Barra Nivea Creme Care 6 Unidades 90g Cada",
+        "id": 3808,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 25,
+        "status": true,
+        "titulo": "Kit Sabonete Em Barra Nivea Creme Care 6 Unidades 90g Cada",
+        "valor": 25.98,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Sabonetes",
+                "id": 158,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "115454",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "116301",
+        "descricao": "Glifage Xr 500mg 30 Comprimidos Liberação Prolongada",
+        "id": 3793,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 17,
+        "status": true,
+        "titulo": "Glifage Xr 500mg 30 Comprimidos Liberação Prolongada",
+        "valor": 8.98,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Antidiabéticos",
+                "id": 156,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "116301",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "116906",
+        "descricao": "Ozempic 0,25mg + 0,5mg Com 1 Sistema De Aplicação + 6 Agulhas Descartáveis",
+        "id": 3798,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 25,
+        "status": true,
+        "titulo": "Ozempic 0,25mg + 0,5mg Com 1 Sistema De Aplicação + 6 Agulhas Descartáveis",
+        "valor": 734.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Antidiabéticos",
+                "id": 156,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "116906",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "118631",
+        "descricao": "Bepantol Baby 30g 15% Desconto",
+        "id": 3825,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 14,
+        "status": true,
+        "titulo": "Bepantol Baby 30g 15% Desconto",
+        "valor": 19.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Pomada para Assaduras",
+                "id": 164,
+                "idGrupoServicoPai": 152
+            }
+        ],
+        "referencia": "118631",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "119353",
+        "descricao": "Lenços Umedecidos Huggies Onedone Leve 4 Pague 3",
+        "id": 3818,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 24,
+        "status": true,
+        "titulo": "Lenços Umedecidos Huggies Onedone Leve 4 Pague 3",
+        "valor": 42.89,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Lenço Umidecido",
+                "id": 162,
+                "idGrupoServicoPai": 152
+            }
+        ],
+        "referencia": "119353",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "120467",
+        "descricao": "Absorvente Always Super Proteção Seca Com Abas 32 Unidades",
+        "id": 3759,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 26,
+        "status": true,
+        "titulo": "Absorvente Always Super Proteção Seca Com Abas 32 Unidades",
+        "valor": 14.5,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Absorvente",
+                "id": 160,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "120467",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "123410",
+        "descricao": "Tadalafila 20mg 4 Comprimidos Revestidos Medley Genérico",
+        "id": 3780,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 25,
+        "status": true,
+        "titulo": "Tadalafila 20mg 4 Comprimidos Revestidos Medley Genérico",
+        "valor": 12.89,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Genéricos",
+                "id": 150,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "123410",
+        "destaque": false,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "135455",
+        "descricao": "Sorvete Kibon Unicornetto 59g",
+        "id": 3857,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 0,
+        "status": true,
+        "titulo": "Sorvete Kibon Unicornetto 59g",
+        "valor": 15.8,
+        "gruposCategoria": [
+            {
+                "descricao": "Refrescante",
+                "id": 177
+            },
+            {
+                "descricao": "Sorvete",
+                "id": 179,
+                "idGrupoServicoPai": 177
+            }
+        ],
+        "referencia": "135455",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "145242",
+        "descricao": "SORVETE KIBON OVOMALTINE 800ML",
+        "id": 3856,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 0,
+        "status": true,
+        "titulo": "SORVETE KIBON OVOMALTINE 800ML",
+        "valor": 24.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Refrescante",
+                "id": 177
+            },
+            {
+                "descricao": "Sorvete",
+                "id": 179,
+                "idGrupoServicoPai": 177
+            }
+        ],
+        "referencia": "145242",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "195596",
+        "descricao": "Analgésico Dorflex 50 Comprimidos",
+        "id": 3752,
+        "precoPromocional": 0,
+        "promocao": false,
+        "qtdEstoque": 231,
+        "status": true,
+        "titulo": "Analgésico Dorflex 50 Comprimidoss",
+        "valor": 5,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            }
+        ],
+        "referencia": "118248",
+        "destaque": true,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "197327",
+        "descricao": "Deposteron Injetável Germed 3 X 2ml",
+        "id": 3786,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 26,
+        "status": true,
+        "titulo": "Deposteron Injetável Germed 3 X 2ml",
+        "valor": 188.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            }
+        ],
+        "referencia": "197327",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "20048071",
+        "descricao": "Turma da Monica Kids Shampoo 260ml - Todos os Tipos de Cabelos",
+        "id": 3850,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 0,
+        "status": true,
+        "titulo": "Turma da Monica Kids Shampoo 260ml - Todos os Tipos de Cabelos",
+        "valor": 12.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Mamãe e Bebê",
+                "id": 152
+            },
+            {
+                "descricao": "Beleza",
+                "id": 154
+            },
+            {
+                "descricao": "Shampoo",
+                "id": 168,
+                "idGrupoServicoPai": 154
+            },
+            {
+                "descricao": "Condicionador",
+                "id": 169,
+                "idGrupoServicoPai": 154
+            }
+        ],
+        "referencia": "20048071",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "3018",
+        "descricao": "Buscopan 10mg 20 Drágeas",
+        "id": 3762,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 14,
+        "status": true,
+        "titulo": "Buscopan 10mg 20 Drágeas",
+        "valor": 18.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Dores e Febre",
+                "id": 172,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "3018",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "302007",
+        "descricao": "Qlaira Bayer 28 Comprimidos",
+        "id": 3787,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 28,
+        "status": true,
+        "titulo": "Qlaira Bayer 28 Comprimidos",
+        "valor": 54.5,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Anticoncepcionais",
+                "id": 155,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "302007",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "311440",
+        "descricao": "Absorvente Always Noturno Tamanho G Seca Com Abas 8 Unidades",
+        "id": 3812,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 15,
+        "status": true,
+        "titulo": "Absorvente Always Noturno Tamanho G Seca Com Abas 8 Unidades",
+        "valor": 8.89,
+        "gruposCategoria": [
+            {
+                "descricao": "Higiene Pessoal",
+                "id": 151
+            },
+            {
+                "descricao": "Absorvente",
+                "id": 160,
+                "idGrupoServicoPai": 151
+            }
+        ],
+        "referencia": "311440",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "378909",
+        "descricao": "Antiácido Gastrol 20 Pastilhas Mastigáveis",
+        "id": 3760,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 15,
+        "status": true,
+        "titulo": "Antiácido Gastrol 20 Pastilhas Mastigáveis",
+        "valor": 10.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            }
+        ],
+        "referencia": "378909",
+        "destaque": true,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "385824",
+        "descricao": "Buscopan Composto 20 Comprimidos",
+        "id": 3763,
+        "precoPromocional": null,
+        "promocao": false,
+        "qtdEstoque": 7,
+        "status": true,
+        "titulo": "Buscopan Composto 20 Comprimidos",
+        "valor": 19.99,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Dores e Febre",
+                "id": 172,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "385824",
+        "destaque": false,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    },
+    {
+        "codigo": "386987",
+        "descricao": "Levonorgestrel 1,5mg 1 comprimido Genérico",
+        "id": 3789,
+        "precoPromocional": null,
+        "promocao": null,
+        "qtdEstoque": 28,
+        "status": true,
+        "titulo": "Levonorgestrel 1,5mg 1 comprimido Genérico",
+        "valor": 9.9,
+        "gruposCategoria": [
+            {
+                "descricao": "Medicamentos",
+                "id": 149
+            },
+            {
+                "descricao": "Anticoncepcionais",
+                "id": 155,
+                "idGrupoServicoPai": 149
+            }
+        ],
+        "referencia": "386987",
+        "destaque": null,
+        "imgTopo": "https://e7.pngegg.com/pngimages/449/885/png-clipart-cup-of-latte-instant-coffee-latte-cafe-milk-coffee-drink-drinks-milk-tea-coffee-shop.png"
+    }
+]
