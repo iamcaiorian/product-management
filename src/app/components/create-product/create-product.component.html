@@ -1,0 +1,120 @@
+<div class="modal-header">
+  <h4 class="modal-title" id="modal-basic-title">{{ modalCreateProductTitle }}</h4>
+
+  <button
+    type="button"
+    class="btn-close"
+    aria-label="Close"
+    (click)="onCreateProductModalClose()"
+  ></button>
+</div>
+
+<div class="modal-body">
+  <form [formGroup]="productForm" (ngSubmit)="onSubmit()">
+    <div class="mb-3">
+      <label for="code" class="form-label">Código</label>
+      <input
+        type="text"
+        id="code"
+        class="form-control"
+        formControlName="code"
+      />
+    </div>
+
+    <div class="mb-3">
+      <label for="title" class="form-label">Título</label>
+      <input
+        type="text"
+        id="title"
+        class="form-control"
+        formControlName="title"
+      />
+    </div>
+
+    <div class="mb-3">
+      <label for="description" class="form-label">Descrição</label>
+      <textarea
+        id="description"
+        class="form-control"
+        rows="3"
+        formControlName="description"
+      ></textarea>
+    </div>
+
+    <div class="mb-3">
+      <label for="price" class="form-label">Preço</label>
+      <input
+        type="number"
+        id="price"
+        class="form-control"
+        formControlName="price"
+      />
+    </div>
+
+    <div class="mb-3">
+      <label for="promotionalPrice" class="form-label">Preço promocional</label>
+      <input
+        type="number"
+        id="promotionalPrice"
+        class="form-control"
+        formControlName="promotionalPrice"
+      />
+    </div>
+
+    <div class="mb-3">
+      <label for="status" class="form-label">Status</label>
+      <select id="status" class="form-control" formControlName="status">
+        <option [value]="true">Ativo</option>
+        <option [value]="false">Inativo</option>
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label for="categories" class="form-label">Categoria</label>
+      <select
+        id="categories"
+        class="form-select"
+        formControlName="categories"
+        multiple
+      >
+        <option *ngFor="let category of categories" [value]="category.id">
+          {{ category.description }}
+        </option>
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label for="topImage" class="form-label">URL da imagem</label>
+      <input
+        type="text"
+        id="topImage"
+        class="form-control"
+        formControlName="topImage"
+      />
+    </div>
+
+    <div class="modal-footer">
+      <button type="submit" class="btn btn-outline-secondary">
+        @if (registerProductIsLoading) {
+          <fa-icon [icon]="faSpinner" animation="spin"></fa-icon>
+        } 
+        
+        @if (productId) { Atualizar } @else { Cadastrar }
+      </button>
+    </div>
+  </form>
+</div>
+
+<!-- Toasts -->
+
+<ng-template #toastSuccessCreateProduct>
+  Produto cadastrado com sucesso!
+</ng-template>
+
+<ng-template #toastErrorCreateProduct>
+  Não foi possível cadastrar o produto. Tente novamente.
+</ng-template>
+
+<ng-template #toastErrorGetProductById>
+  Não foi possível obter o produto desejado. Tente novamente.
+</ng-template>
