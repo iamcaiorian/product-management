@@ -1,0 +1,118 @@
+@if(products) {
+<div class="table-container p-4">
+  <table class="table table-striped border rounded-md">
+    <thead>
+      <tr>
+        <th scope="col">Imagem</th>
+        <th scope="col" sortable="title" (sort)="onSort($event)">Título</th>
+        <th scope="col" sortable="code" (sort)="onSort($event)">Código</th>
+        <th scope="col" sortable="reference" (sort)="onSort($event)">
+          Referência
+        </th>
+        <th scope="col" sortable="description" (sort)="onSort($event)">
+          Descrição
+        </th>
+        <th scope="col" sortable="price" (sort)="onSort($event)">Price</th>
+        <th scope="col" sortable="promotionalPrice" (sort)="onSort($event)">
+          Preço promocional
+        </th>
+        <th scope="col" sortable="status" (sort)="onSort($event)">Status</th>
+        <th scope="col">Categorias</th>
+        <th scope="col">Ações</th>
+      </tr>
+    </thead>
+    <tbody>
+      @for (product of products; track product.id) {
+      <tr>
+        <td>
+          <img
+            [src]="product.topImage"
+            [alt]="product.title"
+            class="img-thumbnail"
+            style="width: 50px; height: 50px; object-fit: cover"
+          />
+        </td>
+        <td>
+          <ngb-highlight [result]="product.title" [term]="searchTerm" />
+        </td>
+        <td>
+          <ngb-highlight [result]="product.code" [term]="searchTerm" />
+        </td>
+        <td>
+          <ngb-highlight [result]="product.reference" [term]="searchTerm" />
+        </td>
+        <td>
+          <ngb-highlight [result]="product.description" [term]="searchTerm" />
+        </td>
+        <td>
+          <ngb-highlight
+            [result]="product.price | currency"
+            [term]="searchTerm"
+          />
+        </td>
+        <td>
+          <ngb-highlight
+            [result]="
+              product.promotionalPrice
+                ? (product.promotionalPrice | currency)
+                : 'N/A'
+            "
+            [term]="searchTerm"
+          />
+        </td>
+        <td>
+          <span
+            [class]="
+              product.status ? 'badge text-bg-success' : 'badge text-bg-danger'
+            "
+          >
+            {{ product.status ? "Ativo" : "Inativo" }}
+          </span>
+        </td>
+        <td>
+          <ul class="list-unstyled mb-0">
+            @for (category of product.categories; track category.id) {
+            <li>
+              <ngb-highlight
+                [result]="category.description"
+                [term]="searchTerm"
+              />
+            </li>
+            } @empty {
+            <li>No categories</li>
+            }
+          </ul>
+        </td>
+
+        <td>
+          <div ngbDropdown container="body">
+            <button
+              type="button"
+              class="btn btn-outline-primary btn-sm"
+              ngbDropdownToggle
+            >
+              <fa-icon [icon]="faGear"></fa-icon>
+            </button>
+            <div ngbDropdownMenu>
+              <button ngbDropdownItem (click)="onEditClick(product.id)">
+                Editar
+              </button>
+              <button
+                ngbDropdownItem
+                (click)="onDeleteClick(product.id, product.title)"
+              >
+                Apagar
+              </button>
+            </div>
+          </div>
+        </td>
+      </tr>
+      } @empty {
+      <tr>
+        <td colspan="7" class="text-center">No products found</td>
+      </tr>
+      }
+    </tbody>
+  </table>
+</div>
+}
