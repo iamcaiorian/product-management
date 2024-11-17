@@ -1,0 +1,83 @@
+<h1 class="mx-4 mt-4">Gerenciar produtos</h1>
+
+<button
+  class="btn btn-primary mx-4 mt-4"
+  (click)="onCreateProductClick()"
+>
+  <fa-icon [icon]="faPlus"></fa-icon>
+  Cadastrar Produto
+</button>
+
+<div class="card mx-4 mt-4">
+  <div class="card-body">
+    <form [formGroup]="formProductFilter">
+      <div class="row g-3">
+        <div class="col-md-4">
+          <label for="title" class="form-label">Nome</label>
+          <input
+            type="text"
+            class="form-control"
+            id="title"
+            formControlName="title"
+            placeholder="Pesquisar por nome..."
+          />
+        </div>
+
+        <div class="col-md-4">
+          <label for="status" class="form-label">Status</label>
+          <select class="form-select" id="status" formControlName="status">
+            <option value="all">Todos</option>
+            <option value="active">Ativo</option>
+            <option value="inactive">Inativo</option>
+          </select>
+        </div>
+
+        <div class="col-md-4" formGroupName="price">
+          <label class="form-label">Preço</label>
+          <div class="input-group">
+            <input
+              type="number"
+              class="form-control"
+              formControlName="min"
+              placeholder="Min"
+              min="0"
+            />
+            <span class="input-group-text">-</span>
+            <input
+              type="number"
+              class="form-control"
+              formControlName="max"
+              placeholder="Max"
+              min="0"
+            />
+          </div>
+        </div>
+      </div>
+
+      <div class="flex flex-row mt-3 text-end gap-2">
+        <button
+          type="button"
+          class="btn btn-outline-secondary"
+          (click)="clearFilters()"
+        >
+          Limpar filtro(s)
+        </button>
+
+        <button type="button" class="btn btn-primary" (click)="getProducts()">
+          Aplicar filtro(s)
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<app-product-table
+  (updateProducts)="getProducts()"
+  [products]="products"
+></app-product-table>
+
+<!-- Toasts -->
+
+<ng-template #toastErrorCreateProduct>
+  Não foi possível obter produtos! Tente novamente mais tarde.
+</ng-template>
